@@ -1,4 +1,6 @@
 # car_finder
+Web app for find a car that fit your requirements.
+
 This web application allows you to find a car according to the customer's requirements, including branch, model, price, among others.
 JavaScript concepts such as DOM navigation, array methods, localstorage, event listeners, creation of html elements are applied in the project.
 
